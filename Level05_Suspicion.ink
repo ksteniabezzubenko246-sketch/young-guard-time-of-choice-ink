@@ -149,4 +149,4 @@ VAR disguise = false
 
 === bad_end ===
 Теперь враги могут знать о связях подполья.
--> END
+-> END -> Level06
