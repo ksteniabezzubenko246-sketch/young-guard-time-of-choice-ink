@@ -1,9 +1,8 @@
-/ink
-    Level01_QuietCity.ink
-    Level02_Oath.ink
-    Level03_Leaflets.ink
-    Level04_ExchangeFire.ink
-    Level05_Suspicion.ink
-    Level06_Trust.ink
-    Level07_Arrest.ink
-README.md
+INCLUDE Level01_QuietCity.ink
+INCLUDE Level02_Oath.ink.ink
+INCLUDE Level03_Leaflets.ink
+INCLUDE Level04_ExchangeFire.ink
+INCLUDE Level05_Suspicion.ink
+INCLUDE Level06_Trust.ink
+INCLUDE Level07_Arrest.ink
+INCLUDE Level08_Vehnost.ink
