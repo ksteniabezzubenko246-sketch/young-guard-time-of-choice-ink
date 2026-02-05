@@ -107,7 +107,6 @@
 
 === level02_bad_end ===
 Теперь за тобой может быть слежка.
--> VAR ~alert = 0
 VAR trust = 0
 VAR leaflet = false
 
