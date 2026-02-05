@@ -1,12 +1,4 @@
 === Level03 ===
-VAR trust_oleg = 1
-VAR trust_sergey = 1
-VAR trust_ulyana = 1
-VAR suspicion = 0
-
--> start
-
-=== start ===
 Подвал. Тусклая лампа. Все молчат.
 
 Олег тихо:
