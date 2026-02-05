@@ -4,5 +4,10 @@ VAR leaflet = false
 
 INCLUDE Level01_QuietCity.ink
 INCLUDE Level02_Oath.ink
+INCLUDE Level03_Leaflets.ink
+INCLUDE Level04_ExchangeFire.ink
+INCLUDE Level05_Suspicion.ink
+INCLUDE Level06_Trust.ink
+INCLUDE Level07_Arrest.ink
 
 -> level01_start
