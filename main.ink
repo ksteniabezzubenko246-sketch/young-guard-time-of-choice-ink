@@ -9,5 +9,6 @@ INCLUDE Level04_ExchangeFire.ink
 INCLUDE Level05_Suspicion.ink
 INCLUDE Level06_Trust.ink
 INCLUDE Level07_Arrest.ink
+INCLUDE Level08_Eternity.ink
 
 -> level01_start
