@@ -1,11 +1,4 @@
 === Level04 ===
-VAR alert = 0
-VAR timer = 3
-VAR courage = 1
-
--> start
-
-=== start ===
 Ночь. Здание биржи труда темнеет на фоне неба.
 
 Сергей шепчет:
