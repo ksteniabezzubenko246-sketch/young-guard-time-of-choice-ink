@@ -1,11 +1,4 @@
 === Level05 ===
-VAR alert = 0
-VAR memory_ok = false
-VAR disguise = false
-
--> start
-
-=== start ===
 Утро. Рынок. Люди, шум, разговоры.
 
 Любовь идёт спокойно, будто просто по делам.
