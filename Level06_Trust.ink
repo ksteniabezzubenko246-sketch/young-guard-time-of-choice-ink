@@ -1,13 +1,4 @@
 === Level06 ===
-VAR trust_oleg = 1
-VAR trust_sergey = 1
-VAR trust_ulyana = 1
-VAR trust_lyuba = 1
-VAR tension = 0
-
--> start
-
-=== start ===
 Подвал. Воздух тяжёлый.
 
 Олег:
