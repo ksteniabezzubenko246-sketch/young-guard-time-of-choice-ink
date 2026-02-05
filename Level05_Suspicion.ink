@@ -134,7 +134,7 @@ VAR disguise = false
 - else:
     Если disguise == true && memory_ok == true:
         -> perfect_end
-    - else:
+    - else:}
         -> good_end
 }
 
