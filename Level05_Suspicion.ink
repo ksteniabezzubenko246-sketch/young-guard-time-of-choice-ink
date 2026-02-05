@@ -128,16 +128,18 @@ VAR disguise = false
 === result ===
 Позади слышны шаги.
 
-{ alert >= 4:
-    За тобой явно следили.
-    -> bad_end
-- else:
-    Если disguise == true && memory_ok == true:
-        -> perfect_end
+{ 
+    - alert >= 4:
+        За тобой явно следили.
+        -> bad_end
     - else:
-        -> good_end
+        { disguise == true && memory_ok == true:
+            -> perfect_end
+          - else:
+            -> good_end
+        }
 }
-}
+
 === perfect_end ===
 Ты полностью ушла от слежки.
 Информация передана безопасно.
