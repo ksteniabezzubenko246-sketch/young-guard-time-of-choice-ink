@@ -93,7 +93,7 @@
     Атмосфера на грани.
     -> level06_bad_end
 - else:
-    -> level06_good_end
+    -> level06_win
 }
 
 === level06_final_good_end ===
