@@ -12,6 +12,6 @@ INCLUDE Level06_Trust.ink
 INCLUDE Level07_Arrest.ink
 INCLUDE Level08_Eternity.ink
 
--> level00_intro.
+-> level00_intro
 
 
