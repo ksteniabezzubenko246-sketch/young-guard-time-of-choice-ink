@@ -11,7 +11,7 @@ INCLUDE Level05_Suspicion.ink
 INCLUDE Level06_Trust.ink
 INCLUDE Level07_Arrest.ink
 INCLUDE Level08_Eternity.ink
-
+INCLUDE credits_start.ink
 -> Level00_intro
 
 
